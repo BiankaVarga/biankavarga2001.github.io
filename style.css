@@ -1,0 +1,320 @@
+.flexbox1 {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: space-between;
+}
+.flexbox1-left {
+  max-width: 400px;
+  display: block;
+  margin-right: 0px;
+}
+.flexbox1-right {
+  max-width: 600px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+ul {
+  list-style-type: square;
+}
+.image {
+  width: 400px;
+  height: 600px;
+  margin-left: 0;
+  margin-right: 0;
+  display: block;
+  object-fit: cover;
+}
+.bemutatkozas {
+  margin-left: 50px;
+  margin-right: auto;
+  margin-top: -350px;
+  width: 400px;
+  font-family: 'Abril Fatface';
+  font-size: 45px;
+  display: block;
+  line-height: 20px;
+}
+.flexbox2 {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: space-between;
+}
+.flexbox2-left {
+  max-width: 500px;
+  display: block;
+  margin-right: 0px;
+}
+.flexbox2-right {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+  color: #222;
+  max-width: 550px;
+  margin-left: 25px;
+}
+.analytical {
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 25px;
+  max-width: 590px;
+  line-height: 1.5;
+}
+.togetherBox {
+  max-width: 400px;
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #222;
+  position: relative;
+  padding-top: 15px;
+  padding-bottom: 35px;
+}
+.togetherBoxIdezojel {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  color: white;
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+  margin: 0;
+}
+.togetherBoxSzoveg {
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  word-wrap: break-word;
+  font-size: 60px;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 50px;
+}
+.notable-felirat {
+  text-transform: uppercase;
+  margin-top: 60px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.notable-h3 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  line-height: 40px;
+  font-size: 30px;
+}
+.notable-p {
+  line-height: 30px;
+  font-size: 20px;
+}
+.flexbox3 {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: space-between;
+}
+.flexbox3-left {
+  max-width: 400px;
+  display: block;
+  margin-right: 0px;
+}
+.flexbox3-right {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+  color: #222;
+  max-width: 550px;
+}
+.faithBox {
+  max-width: 400px;
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #222;
+  position: relative;
+  padding-top: 15px;
+  padding-bottom: 35px;
+}
+.faithIdezojel {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  color: white;
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+  margin: 0;
+}
+.faithSzoveg {
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  word-wrap: break-word;
+  font-size: 60px;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 50px;
+}
+.experience {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  margin-right: 50px;
+  margin-left: 25px;
+  max-width: 590px;
+  line-height: 20px;
+}
+.experience-felirat {
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.experience-h4 {
+  line-height: 40px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.experience-h5 {
+  font-style: italic;
+  margin-top: -10px;
+  margin-bottom: 0px;
+  line-height: 30px;
+  font-size: 20px;
+}
+.experience-ul {
+  line-height: 30px;
+  font-size: 20px;
+}
+.flexbox4 {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: space-between;
+}
+.flexbox4-left {
+  max-width: 500px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.flexbox4-right {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+  color: #222;
+  max-width: 550px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.whenBox {
+  max-width: 400px;
+  height: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #222;
+  position: relative;
+  padding-top: 15px;
+  padding-bottom: 40px;
+}
+.whenIdezojel {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 60px;
+  margin: 0;
+}
+.whenSzoveg {
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  word-wrap: break-word;
+  font-size: 60px;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 70px;
+}
+.formal{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  max-width: 590px;
+  line-height: 20px;
+}
+.formal-felirat {
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.formal-h4 {
+  line-height: 40px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.formal-h5 {
+  font-style: italic;
+  margin-top: -10px;
+  margin-bottom: 0px;
+  line-height: 30px;
+  font-size: 20px;
+}
+.formal-ul {
+  line-height: 30px;
+  font-size: 20px;
+}
+.vonal {
+  height: 3px;
+  max-width: 700px;
+  background-color: #222;
+  margin-right: auto;
+  margin-left: auto;
+  position: center;
+}
+.personal {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  max-width: 590px;
+  line-height: 20px;
+  font-size: 13px;
+}
+.personal-felirat {
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.fejlecBox {
+  max-width: 750px;
+  background-color: #222;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 125px;
+  padding-right: 125px;
+}
+.fejlecElem {
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  font-size: 42px;
+  align-items: space-between;
+}
